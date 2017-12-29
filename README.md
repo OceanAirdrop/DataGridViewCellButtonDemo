@@ -1,7 +1,7 @@
 # DataGridViewCellButtonDemo
 This demo project shows how you can display a smart helper button in a datagridview cell.
 
-![alt tag](https://raw.githubusercontent.com/OceanAirdrop/DataGridViewCellButtonDemo/master/demo2.gif)
+![alt tag](https://raw.githubusercontent.com/OceanAirdrop/DataGridViewCellButtonDemo/master/gifdemo.gif)
 
 
 This project:
