@@ -30,7 +30,7 @@ namespace DataGridViewButtonDemo
         {
             try
             {
-                dgv.ColumnHeadersDefaultCellStyle.Font      = new Font("Segoe UI", 7, FontStyle.Bold, GraphicsUnit.Point);
+                dgv.ColumnHeadersDefaultCellStyle.Font      = new Font("Segoe UI", 9, FontStyle.Bold, GraphicsUnit.Point);
                 dgv.DefaultCellStyle.Font                   = new Font("Segoe UI", 9, FontStyle.Regular, GraphicsUnit.Point);
                 dgv.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
                 dgv.CellBorderStyle                         = DataGridViewCellBorderStyle.Single;
